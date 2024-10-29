@@ -13,6 +13,9 @@ body{
     margin: 15px;
     height: 650px;
     background: #000;
+    background-image: url(bg.jpg);
+    background-position: center;
+    background-size: cover;
     color: white;
     border-radius: 29px;
     padding: 10px;
@@ -38,6 +41,7 @@ input{
     margin-top: 15px;
     margin-left: 10px;
     width: 92%;
+    font-weight: 600;
     height: 35px;
     margin-bottom: 10px;
     padding-left: 10px;
