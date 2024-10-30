@@ -36,3 +36,7 @@ button{
     border-top-left-radius: 15px;
     cursor: pointer;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
